@@ -1,2 +1,2 @@
-# Assembly-x86-
+# Assembler
 Assembly programs I've wrote.
