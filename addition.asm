@@ -1,4 +1,5 @@
-; calc.asm: Read and sum two numbers. Display result.
+; addition.asm: Read and sum two numbers. Display the result.
+; Made for TASM
 
  
         .model small
